@@ -18,8 +18,8 @@
 ## Results:
 Results stored in outputs, e.g. banking_adb_result.csv
 
-## ❤ 致谢
+## Acknowledgments
 
-+ [Adaptive-Decision-Boundary](https://github.com/hanleizhang/Adaptive-Decision-Boundary) : 意图识别采用 Adaptive Decision Boundary 提出的方法。
-+ [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning) : 模型基架采用 PrefixTuning 的内容。
-+ [RAMA](https://github.com/pawelswoboda/RAMA) : 新意图发现采用了 RAMA 算法。
++ [Adaptive-Decision-Boundary](https://github.com/hanleizhang/Adaptive-Decision-Boundary) 
++ [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning)
++ [RAMA](https://github.com/pawelswoboda/RAMA)
