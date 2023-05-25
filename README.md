@@ -18,7 +18,7 @@
 ## Results:
 Results stored in outputs, e.g. banking_adb_result.csv
 
-## Acknowledgments
+## Thank && Acknowledgments
 
 + [Adaptive-Decision-Boundary](https://github.com/hanleizhang/Adaptive-Decision-Boundary) 
 + [PrefixTuning](https://github.com/XiangLi1999/PrefixTuning)
